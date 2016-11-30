@@ -17,4 +17,4 @@ Copyright and License
 ---------------------
 Copyright (c) 2016, Danilo Peixoto and Gabriel Gustavo. All rights reserved.
 
-Project developed under the [BSD-3-Clause license](http://raw.githubusercontent.com/danilopeixoto/virgo/master/LICENSE).
+Project developed under the [BSD-3-Clause license](LICENSE?raw=true).
