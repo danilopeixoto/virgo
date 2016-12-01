@@ -70,7 +70,7 @@ void Translator::setEnglishLanguage() {
     EXIT = "Exit";
     CURRENT_FILE = "File: %s\n";
     NO_FILE = "File: No file selected";
-    OPEN_FILE = "Enter an object file to open:";
+    OPEN_FILE = "Enter a filename to open:";
     IMPORT_FILE = "Enter an object file to import:";
     MESHES = "Meshes:";
     NONE = "None";
@@ -120,7 +120,7 @@ void Translator::setPortugueseLanguage() {
     EXIT = "Sair";
     CURRENT_FILE = "Arquivo: %s\n";
     NO_FILE = "Arquivo: Nenhum arquivo selecionado";
-    OPEN_FILE = "Entre com o arquivo de objeto para abrir:";
+    OPEN_FILE = "Entre com o nome de arquivo para abrir:";
     IMPORT_FILE = "Entre com o arquivo de objeto para importar:";
     MESHES = "Geometrias:";
     NONE = "Nenhum";
@@ -170,7 +170,7 @@ void Translator::setSpanishLanguage() {
     EXIT = "Salida";
     CURRENT_FILE = "Archivo: %s\n";
     NO_FILE = "Archivo: Ningún archivo seleccionado";
-    OPEN_FILE = "Introduzca el archivo de objeto para abrir:";
+    OPEN_FILE = "Introduzca el nombre de archivo para abrir:";
     IMPORT_FILE = "Introduzca el archivo de objeto para importar:";
     MESHES = "Geometrías:";
     NONE = "Ninguno";

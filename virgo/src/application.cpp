@@ -317,6 +317,9 @@ void Application::openAction() {
         case 1:
             file.open(newFilename.c_str(), FileMode::Read);
 
+            if (!file.isOpen())
+                file.open(newFilename.c_str(), FileMode::Write);
+
             if (file.isOpen()) {
                 separator();
                 print(translator.OPENING);
