@@ -48,7 +48,7 @@ BEGIN
             VALUE "FileDescription", "Virgo"
             VALUE "FileVersion", "1.0.0.0"
             VALUE "InternalName", "Virgo"
-            VALUE "LegalCopyright", "Copyright Â© 2016, Danilo Peixoto and Gabriel Gustavo. All rights reserved."
+            VALUE "LegalCopyright", "Copyright © 2016, Danilo Peixoto and Gabriel Gustavo. All rights reserved."
             VALUE "OriginalFilename", "virgo.exe"
             VALUE "ProductName", "Virgo"
             VALUE "ProductVersion", "1.0.0.0"
