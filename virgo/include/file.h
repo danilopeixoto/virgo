@@ -28,6 +28,7 @@
 #ifndef FILE_H
 #define FILE_H
 
+#include "namespace.h"
 #include "data.h"
 #include <fstream>
 
